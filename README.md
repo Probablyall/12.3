@@ -8,9 +8,17 @@
 
 Где данных из условия не хватало, вписывал то, что больше подходит по моему мнению.
 
-
+### Ресурсы для приложений:
 ![tabl1.PNG](https://github.com/Probablyall/12.3/blob/main/tabl1.PNG)
 
-2
-
+### Иные необходимые ресурсы:
 ![tabl2.PNG](https://github.com/Probablyall/12.3/blob/main/tabl2.PNG)
+
+Worker node - здесь приложения, которые необходимы для работы кластера Calico, Prometheus, Centralized logging.
+
+OS - ОС на которой развернут кластер.
+
+### Итого
+#### HDD: 212 Гб
+#### ОЗУ: 120 Гб
+#### ЦПУ: 101
